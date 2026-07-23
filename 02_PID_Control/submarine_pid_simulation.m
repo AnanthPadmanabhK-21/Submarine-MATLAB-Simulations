@@ -1,6 +1,6 @@
 %% Submarine PID Control Simulation
 % This script simulates yaw stabilization using a PID controller.
-% Author: Ananth Padmanabh
+% Author: Keerthana K
 % Date: 1 November 2025
 
 clc; clear; close all;
